@@ -1,0 +1,381 @@
+[21-Aug-2025 15:22:29 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'YOUR_DB_USER'@'localhost' (using password: YES) in /home/gzrkir12/daywork.gzrk.ir/includes/db.php on line 8
+[21-Aug-2025 15:27:37 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:27:37 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:27:37 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:27:37 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 15:27:45 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:27:45 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:27:45 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:27:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 15:28:43 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:28:43 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:28:43 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:28:43 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 15:28:50 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:28:50 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:28:50 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:28:50 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 15:28:58 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:28:58 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:28:58 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:28:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 15:29:03 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:29:03 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:29:03 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:29:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 15:33:33 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:33:33 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:33:33 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:33:33 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 15:33:41 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:33:41 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:33:41 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:33:41 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 15:40:46 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:40:46 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:40:46 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:40:46 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 15:40:51 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:40:51 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:40:51 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:40:51 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 15:41:00 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:41:00 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:41:00 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:41:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 15:42:22 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:42:22 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:42:22 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:42:22 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 15:42:29 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:42:29 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:42:29 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:42:29 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 15:44:44 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:44:44 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:44:44 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:44:44 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 15:44:48 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:44:48 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:44:48 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:44:48 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 15:44:50 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:44:50 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:44:50 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:45:00 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:45:00 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:45:00 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:45:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login.php on line 11
+[21-Aug-2025 15:45:03 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:45:03 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:45:03 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:45:10 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:45:10 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:45:10 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:45:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login.php on line 11
+[21-Aug-2025 15:45:13 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:45:13 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:45:13 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:46:13 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:46:13 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:46:13 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:46:18 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:46:18 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:46:18 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:46:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login.php on line 11
+[21-Aug-2025 15:46:21 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:46:21 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:46:21 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:46:58 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:46:58 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:46:58 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:47:12 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:47:12 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:47:12 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:47:12 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login.php on line 11
+[21-Aug-2025 15:47:14 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:47:14 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:47:14 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:47:20 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:47:20 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:47:20 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:47:20 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login.php on line 11
+[21-Aug-2025 15:47:27 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:47:27 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:47:27 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:52:29 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:52:29 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:52:29 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:52:38 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:52:38 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:52:38 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:52:38 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login.php on line 11
+[21-Aug-2025 15:52:40 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:52:40 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:52:40 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login.php on line 3
+[21-Aug-2025 15:53:18 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:53:18 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:53:18 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:53:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 9
+[21-Aug-2025 15:53:25 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:53:25 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:53:25 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:53:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 9
+[21-Aug-2025 15:54:39 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:54:39 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:54:39 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:54:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 9
+[21-Aug-2025 15:55:58 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:55:58 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:55:58 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:55:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 9
+[21-Aug-2025 15:56:14 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:56:14 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:56:14 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:56:14 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 9
+[21-Aug-2025 15:56:21 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:56:21 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:56:21 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:56:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 9
+[21-Aug-2025 15:57:06 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:57:06 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:57:06 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:57:06 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 9
+[21-Aug-2025 15:57:13 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:57:13 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:57:13 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:57:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 9
+[21-Aug-2025 15:58:36 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:58:36 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:58:36 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:58:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 9
+[21-Aug-2025 15:58:49 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:58:49 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:58:49 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 15:58:49 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 9
+[21-Aug-2025 16:19:24 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 16:19:24 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 16:19:24 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 16:19:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 16:19:34 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 16:19:34 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 16:19:34 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 16:19:34 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 10
+[21-Aug-2025 16:22:18 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 16:22:18 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 16:22:18 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 16:22:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 11
+[21-Aug-2025 16:22:25 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 16:22:25 Asia/Tehran] PHP Warning:  include(db_connect.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 16:22:25 Asia/Tehran] PHP Warning:  include(): Failed opening 'db_connect.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 3
+[21-Aug-2025 16:22:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/gzrkir12/daywork.gzrk.ir/login_process.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/login_process.php on line 11
+[21-Aug-2025 16:26:32 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'YOUR_DB_USER'@'localhost' (using password: YES) in /home/gzrkir12/daywork.gzrk.ir/includes/db.php on line 8
+[21-Aug-2025 16:26:46 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'YOUR_DB_USER'@'localhost' (using password: YES) in /home/gzrkir12/daywork.gzrk.ir/includes/db.php on line 8
+[21-Aug-2025 16:26:57 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'YOUR_DB_USER'@'localhost' (using password: YES) in /home/gzrkir12/daywork.gzrk.ir/includes/db.php on line 8
+[21-Aug-2025 16:36:02 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/gzrkir12/daywork.gzrk.ir/includes/db.php on line 8
+[21-Aug-2025 16:36:35 Asia/Tehran] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/gzrkir12/daywork.gzrk.ir/includes/db.php on line 8
+[21-Aug-2025 18:25:58 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function checkRole() in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 7
+[21-Aug-2025 18:26:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function checkRole() in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 7
+[21-Aug-2025 18:27:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function checkRole() in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 7
+[21-Aug-2025 18:27:53 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function checkRole() in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 7
+[21-Aug-2025 18:31:45 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function checkRole() in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 7
+[21-Aug-2025 18:31:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function checkRole() in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 7
+[21-Aug-2025 18:33:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function checkRole() in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 7
+[21-Aug-2025 18:33:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function checkRole() in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 7
+[21-Aug-2025 18:34:25 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 17
+[21-Aug-2025 18:48:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 17
+[21-Aug-2025 18:48:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 17
+[21-Aug-2025 18:50:38 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 24
+[21-Aug-2025 18:50:48 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 24
+[21-Aug-2025 18:52:42 Asia/Tehran] PHP Warning:  require_once(include/db.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 8
+[21-Aug-2025 18:52:42 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'include/db.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 8
+[21-Aug-2025 18:54:52 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 42
+[21-Aug-2025 18:58:37 Asia/Tehran] PHP Warning:  require_once(include/db.php): failed to open stream: No such file or directory in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 8
+[21-Aug-2025 18:58:37 Asia/Tehran] PHP Fatal error:  require_once(): Failed opening required 'include/db.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/gzrkir12/daywork.gzrk.ir/main_dashboard.php on line 8
+[21-Aug-2025 20:05:13 Asia/Tehran] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php on line 3
+[21-Aug-2025 20:05:13 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php:1) in /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php on line 5
+[21-Aug-2025 20:05:21 Asia/Tehran] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php on line 3
+[21-Aug-2025 20:05:21 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php:1) in /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php on line 5
+[21-Aug-2025 22:01:43 Asia/Tehran] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php on line 3
+[21-Aug-2025 22:01:43 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php:1) in /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php on line 5
+[21-Aug-2025 22:02:28 Asia/Tehran] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php on line 3
+[21-Aug-2025 22:02:28 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php:1) in /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php on line 5
+[21-Aug-2025 22:02:36 Asia/Tehran] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php on line 3
+[21-Aug-2025 22:02:36 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php:1) in /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php on line 5
+[21-Aug-2025 22:07:08 Asia/Tehran] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php on line 3
+[21-Aug-2025 22:07:08 Asia/Tehran] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php:1) in /home/gzrkir12/daywork.gzrk.ir/dashboard_admin.php on line 5
+[21-Aug-2025 22:50:07 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function checkRole() in /home/gzrkir12/daywork.gzrk.ir/user_management.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/user_management.php on line 6
+[21-Aug-2025 22:50:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function checkRole() in /home/gzrkir12/daywork.gzrk.ir/user_management.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/user_management.php on line 6
+[21-Aug-2025 22:50:11 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function checkRole() in /home/gzrkir12/daywork.gzrk.ir/user_management.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/user_management.php on line 6
+[21-Aug-2025 22:50:13 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function checkRole() in /home/gzrkir12/daywork.gzrk.ir/user_management.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/user_management.php on line 6
+[21-Aug-2025 22:51:08 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function checkRole() in /home/gzrkir12/daywork.gzrk.ir/user_management.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/user_management.php on line 6
+[22-Aug-2025 07:07:54 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function checkRole() in /home/gzrkir12/daywork.gzrk.ir/user_management.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/user_management.php on line 6
+[22-Aug-2025 07:07:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function checkRole() in /home/gzrkir12/daywork.gzrk.ir/user_management.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/gzrkir12/daywork.gzrk.ir/user_management.php on line 6
